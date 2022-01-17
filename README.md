@@ -1,0 +1,1 @@
+# Predictive-Model-on-Skin-Cancer-Patients-by-using-Support-Vector-Machine-Algorithm
